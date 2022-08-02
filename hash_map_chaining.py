@@ -71,10 +71,10 @@ class LinkedList:
         
         return res_str
 
-# 새로운 링크드 리스트 생성
+# 새로운 Linked List 생성
 my_list = LinkedList()
 
-# 새로운 노드 4개 추가
+# 새로운 Node 3개 추가
 my_list.append(key=101, value="A")
 my_list.append(key=201, value="B")
 my_list.append(key=301, value="C")
