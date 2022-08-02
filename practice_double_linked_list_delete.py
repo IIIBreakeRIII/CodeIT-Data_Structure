@@ -77,7 +77,6 @@ class LinkedList:
 
         return res_str
 
-
 # 새로운 링크드 리스트 생성
 my_list = LinkedList()
 
