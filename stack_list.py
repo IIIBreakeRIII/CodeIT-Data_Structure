@@ -1,6 +1,6 @@
 from collections import deque
 
-stack = deque()
+stack = deque()   # []를 써도 구현 가능
 
 # Stack 맨 끝에 Data 추가
 stack.append("1")
